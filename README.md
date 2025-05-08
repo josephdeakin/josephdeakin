@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I’m Joseph Deakin! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+at+bet365;Creator+of+Rueventure;Lover+of+clean+code+and+big+adventures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Creator+of+Rueventure;Lover+of+clean+code" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,9 +33,8 @@ I also manage the website for **Hindley SC**, focusing on clean, accessible desi
 
 ## 🚀 Current Focus
 
-- **Rueventure** → Finalizing MVP launch by end of May  
+- **Rueventure** → Finalizing MVP launch by end of July 
 - **YouTube Tutorials** → Teaching beginners how to code (starting with TypeScript!)  
-- **International Move** → Preparing for software engineering roles in Canada or the USA  
 
 ---
 
