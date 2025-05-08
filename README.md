@@ -66,7 +66,7 @@ I also manage the website for **Hindley SC**, focusing on clean, accessible desi
   <a href="https://github.com/josephdeakin">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:josephadeakin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -76,6 +76,9 @@ I also manage the website for **Hindley SC**, focusing on clean, accessible desi
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
+
 <!--
 **josephdeakin/josephdeakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
