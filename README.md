@@ -38,7 +38,7 @@ I also manage the website for **Hindley SC**, focusing on clean, accessible desi
 
 ---
 
-## 🔥 GitHub Stats
+<!--## 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josephdeakin&show_icons=true&theme=radical" alt="Joseph's GitHub stats" />
@@ -47,8 +47,8 @@ I also manage the website for **Hindley SC**, focusing on clean, accessible desi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=josephdeakin&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
-
----
+deploy self - most commits are private lol
+--->
 
 ## 🧗 Fun Facts
 
