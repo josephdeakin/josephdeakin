@@ -54,7 +54,6 @@ I also manage the website for **Hindley SC**, focusing on clean, accessible desi
 
 - Currently projecting **V6 bouldering problems**  
 - Planning to road trip across North America (with Rueventure, of course!)  
-- Proud owner of a **VW Golf** — thinking about a Golf R or a Toyota Corolla in Canada  
 
 ---
 
