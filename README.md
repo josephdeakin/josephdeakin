@@ -60,7 +60,7 @@ I also manage the website for **Hindley SC**, focusing on clean, accessible desi
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josephdeakin">
+  <a href="https://www.linkedin.com/in/joseph-deakin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/josephdeakin">
