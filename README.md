@@ -48,6 +48,7 @@ I also manage the website for **Hindley SC**, focusing on clean, accessible desi
   <img src="https://github-readme-streak-stats.herokuapp.com?user=josephdeakin&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 deploy self - most commits are private lol
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 --->
 
 ## 🧗 Fun Facts
