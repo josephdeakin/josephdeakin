@@ -31,7 +31,7 @@ I also manage the website for **Hindley SC**, focusing on clean, accessible desi
 
 ## 🚀 Current Focus
 
-- **Rueventure** → Finalizing MVP launch by end of July 
+- **Rueventure** → Finalising MVP launch by end of July 
 - **YouTube Tutorials** → Teaching beginners how to code (starting with TypeScript!)  
 
 ---
